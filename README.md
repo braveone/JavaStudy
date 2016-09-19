@@ -16,3 +16,5 @@ second line in column one | second line
 third line | zero
 
 ~~ this ~~
+
+<font color="red">Jack</font>
